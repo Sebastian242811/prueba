@@ -3,4 +3,9 @@ class ProductoController{
 list<Productos> MenosVendidos(){
  return 0;
 }
+
+@PostMapping()
+Producto registrarProducto(){
+ return 0;
+}
 }
