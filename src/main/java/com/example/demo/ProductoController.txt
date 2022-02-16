@@ -1,4 +1,6 @@
 class ProductoController{
 @GetMapping()
-list<Productos> MenosVendidos();
+list<Productos> MenosVendidos(){
+ return 0;
+}
 }
