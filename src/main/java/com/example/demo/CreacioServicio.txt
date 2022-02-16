@@ -1,1 +1,11 @@
 import java.util.*;
+
+Class ProductoService(){
+     Producto MenosVendidos(){
+	--------
+     }
+     
+     Producto RegistrarServicio(Producto producto){
+	//TODO: Registrar
+     }
+}
